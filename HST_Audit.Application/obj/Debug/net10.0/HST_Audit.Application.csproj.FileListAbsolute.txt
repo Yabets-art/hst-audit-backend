@@ -1,0 +1,15 @@
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\bin\Debug\net10.0\HST_Audit.Application.deps.json
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\bin\Debug\net10.0\HST_Audit.Application.dll
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\bin\Debug\net10.0\HST_Audit.Application.pdb
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\bin\Debug\net10.0\HST_Audit.Domain.dll
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\bin\Debug\net10.0\HST_Audit.Domain.pdb
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\obj\Debug\net10.0\HST_Audit.Application.csproj.AssemblyReference.cache
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\obj\Debug\net10.0\HST_Audit.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\obj\Debug\net10.0\HST_Audit.Application.AssemblyInfoInputs.cache
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\obj\Debug\net10.0\HST_Audit.Application.AssemblyInfo.cs
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\obj\Debug\net10.0\HST_Audit.Application.csproj.CoreCompileInputs.cache
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\obj\Debug\net10.0\HST_Audi.683C0B17.Up2Date
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\obj\Debug\net10.0\HST_Audit.Application.dll
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\obj\Debug\net10.0\refint\HST_Audit.Application.dll
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\obj\Debug\net10.0\HST_Audit.Application.pdb
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Application\obj\Debug\net10.0\ref\HST_Audit.Application.dll

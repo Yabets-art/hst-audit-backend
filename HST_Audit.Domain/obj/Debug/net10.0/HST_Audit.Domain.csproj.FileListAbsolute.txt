@@ -1,0 +1,11 @@
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\bin\Debug\net10.0\HST_Audit.Domain.deps.json
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\bin\Debug\net10.0\HST_Audit.Domain.dll
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\bin\Debug\net10.0\HST_Audit.Domain.pdb
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\obj\Debug\net10.0\HST_Audit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\obj\Debug\net10.0\HST_Audit.Domain.AssemblyInfoInputs.cache
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\obj\Debug\net10.0\HST_Audit.Domain.AssemblyInfo.cs
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\obj\Debug\net10.0\HST_Audit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\obj\Debug\net10.0\HST_Audit.Domain.dll
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\obj\Debug\net10.0\refint\HST_Audit.Domain.dll
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\obj\Debug\net10.0\HST_Audit.Domain.pdb
+C:\Users\jabez\OneDrive\Desktop\My Projects\HST_Backend_proj1\HST_Audit.Domain\obj\Debug\net10.0\ref\HST_Audit.Domain.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HST_Audit.API/HST_Audit.API.csproj" />
+  <Project Path="HST_Audit.Application/HST_Audit.Application.csproj" />
+  <Project Path="HST_Audit.Domain/HST_Audit.Domain.csproj" />
+  <Project Path="HST_Audit.Infrastructure/HST_Audit.Infrastructure.csproj" />
+</Solution>
